@@ -1,0 +1,4 @@
+List of projects:
+
+* Binary Classsification of Bank Data
+kaggle:https://www.kaggle.com/competitions/playground-series-s5e8
